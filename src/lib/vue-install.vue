@@ -1,6 +1,6 @@
 <template>
   <div class="vue-install">
-    <div> {{title}}
+    <div> 1234
     </div>
   </div>
 </template>

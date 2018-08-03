@@ -1,6 +1,6 @@
 import vueInstall from "./vue-install.vue"
 const vueFirstInstall = {
-  install(vue, option) {
+  install(Vue, option) {
     Vue.component(vueInstall.name, vueInstall)
   }
 }
