@@ -6,6 +6,6 @@ const vueFirstInstall = {
 }
 
 if (typeof window !== 'undefined' && window.Vue) {
-  window.Vue.use(paykeyboard);
+  window.Vue.use(vueFirstInstall);
 }
 export default vueFirstInstall
