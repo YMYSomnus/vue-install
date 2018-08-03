@@ -2,12 +2,13 @@
   "name": "vue-install",
   "description": "vueInstall",
   "version": "1.0.0",
-  "author": "yang",
+  "author": "yangmingyue",
   "license": "MIT",
   "private": false,
   "main": "dist/VueInstall.js",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/YMYSomnus/vue-install"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
