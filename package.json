@@ -1,11 +1,11 @@
 {
   "name": "vue-install",
-  "description": "vueInstall",
+  "description": "vue-install",
   "version": "1.0.0",
   "author": "yangmingyue",
   "license": "MIT",
   "private": false,
-  "main": "dist/VueInstall.js",
+  "main": "dist/vue-install.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/YMYSomnus/vue-install"
